@@ -37,6 +37,7 @@ class Program
         var floatAndDouble = floatA + doubleA;
 
         decimal decimalA = 1.2M;
+        string word = "Hello world";
 
         #endregion
     }
