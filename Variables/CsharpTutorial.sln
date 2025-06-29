@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowControl", "..\FlowContr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysEnumerableCollectionAndList", "..\ArraysEnumerableCollectionAndList\ArraysEnumerableCollectionAndList.csproj", "{49525AC5-20C2-41B0-87D3-53A16679F83F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQAndLambda", "..\LINQAndLambda\LINQAndLambda.csproj", "{08D119D8-B9F3-4670-937C-79A1792C849B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{49525AC5-20C2-41B0-87D3-53A16679F83F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49525AC5-20C2-41B0-87D3-53A16679F83F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49525AC5-20C2-41B0-87D3-53A16679F83F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08D119D8-B9F3-4670-937C-79A1792C849B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08D119D8-B9F3-4670-937C-79A1792C849B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08D119D8-B9F3-4670-937C-79A1792C849B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08D119D8-B9F3-4670-937C-79A1792C849B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
