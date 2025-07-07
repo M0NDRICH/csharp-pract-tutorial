@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringDateTimeNullableAndEn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionAndParameters", "..\FunctionAndParameters\FunctionAndParameters.csproj", "{17ED93A9-1143-4A92-B1FC-BF56809F050C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassStructDelegate", "..\ClassStructDelegate\ClassStructDelegate.csproj", "{8131094A-C57E-43E3-846D-DB009F571351}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{17ED93A9-1143-4A92-B1FC-BF56809F050C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17ED93A9-1143-4A92-B1FC-BF56809F050C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17ED93A9-1143-4A92-B1FC-BF56809F050C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8131094A-C57E-43E3-846D-DB009F571351}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8131094A-C57E-43E3-846D-DB009F571351}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8131094A-C57E-43E3-846D-DB009F571351}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8131094A-C57E-43E3-846D-DB009F571351}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
