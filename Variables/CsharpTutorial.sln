@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQAndLambda", "..\LINQAnd
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringDateTimeNullableAndEnumeration", "..\StringDataTimeNullableAndEnumeration\StringDateTimeNullableAndEnumeration.csproj", "{EC7AAAAE-299A-425E-854F-4E0035802745}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionAndParameters", "..\FunctionAndParameters\FunctionAndParameters.csproj", "{17ED93A9-1143-4A92-B1FC-BF56809F050C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{EC7AAAAE-299A-425E-854F-4E0035802745}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC7AAAAE-299A-425E-854F-4E0035802745}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC7AAAAE-299A-425E-854F-4E0035802745}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17ED93A9-1143-4A92-B1FC-BF56809F050C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17ED93A9-1143-4A92-B1FC-BF56809F050C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17ED93A9-1143-4A92-B1FC-BF56809F050C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17ED93A9-1143-4A92-B1FC-BF56809F050C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

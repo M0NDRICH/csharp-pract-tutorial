@@ -160,7 +160,7 @@ namespace StringDateTimeNullableAndEnumeration
                 Console.WriteLine("(Ignored Case) frace is \"Not\" equal to Frace");
             */
 
-            //Commonly used manipualtion in string
+            //Commonly used manipulation in string
             /*
             var myString = "programmerTV";
             Console.WriteLine(myString);
