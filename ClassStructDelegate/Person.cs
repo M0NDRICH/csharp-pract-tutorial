@@ -67,7 +67,7 @@ namespace ClassStructDelegate
             }
         }
         public DateTime? BirthDate { get; set; }
-        public List<Fruit> FavoriteFruits { get; set; } = new List<Fruit>(); 
+        public List<Fruit> FavoriteFruits { get; set; } = new List<Fruit>() { }; 
         #endregion
 
         #region -- Methods --

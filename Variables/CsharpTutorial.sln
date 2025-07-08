@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionAndParameters", "..
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassStructDelegate", "..\ClassStructDelegate\ClassStructDelegate.csproj", "{8131094A-C57E-43E3-846D-DB009F571351}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DebuggingErrorHandlingAndUnitTest", "..\DebuggingErrorHandlingAndUnitTest\DebuggingErrorHandlingAndUnitTest.csproj", "{A855BCEA-510D-439F-8D73-B60F8DEBA1D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DebuggingErrorHandlingAndUnitTestingTest", "..\DebuggingErrorHandlingAndUnitTestingTest\DebuggingErrorHandlingAndUnitTestingTest.csproj", "{50199133-91B0-40AA-9A77-3E3241FF0F1C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{8131094A-C57E-43E3-846D-DB009F571351}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8131094A-C57E-43E3-846D-DB009F571351}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8131094A-C57E-43E3-846D-DB009F571351}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A855BCEA-510D-439F-8D73-B60F8DEBA1D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A855BCEA-510D-439F-8D73-B60F8DEBA1D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A855BCEA-510D-439F-8D73-B60F8DEBA1D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A855BCEA-510D-439F-8D73-B60F8DEBA1D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50199133-91B0-40AA-9A77-3E3241FF0F1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50199133-91B0-40AA-9A77-3E3241FF0F1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50199133-91B0-40AA-9A77-3E3241FF0F1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50199133-91B0-40AA-9A77-3E3241FF0F1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
