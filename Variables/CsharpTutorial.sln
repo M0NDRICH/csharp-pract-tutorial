@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DebuggingErrorHandlingAndUn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DebuggingErrorHandlingAndUnitTestingTest", "..\DebuggingErrorHandlingAndUnitTestingTest\DebuggingErrorHandlingAndUnitTestingTest.csproj", "{50199133-91B0-40AA-9A77-3E3241FF0F1C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleNONOOPVsOOPSolidPrinciple", "..\SimpleNON-OOPVsOOPSolidPrinciple\SimpleNONOOPVsOOPSolidPrinciple.csproj", "{A58B16F3-A58C-4BA6-AF9F-0C0D8188DE4B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{50199133-91B0-40AA-9A77-3E3241FF0F1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50199133-91B0-40AA-9A77-3E3241FF0F1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50199133-91B0-40AA-9A77-3E3241FF0F1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A58B16F3-A58C-4BA6-AF9F-0C0D8188DE4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A58B16F3-A58C-4BA6-AF9F-0C0D8188DE4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A58B16F3-A58C-4BA6-AF9F-0C0D8188DE4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A58B16F3-A58C-4BA6-AF9F-0C0D8188DE4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
